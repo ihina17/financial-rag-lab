@@ -1,0 +1,9 @@
+﻿pandas
+numpy
+datasets
+huggingface_hub
+chromadb
+sentence-transformers
+openai
+tqdm
+python-dotenv
