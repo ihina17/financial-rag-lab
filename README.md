@@ -8,7 +8,7 @@ Compare a baseline RAG system with an engineered RAG system using retrieval and 
 
 ## Years Used
 
-2022, 2023, 2024, 2025
+2015–2025
 
 ## Metrics
 
